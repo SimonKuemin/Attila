@@ -17,3 +17,5 @@ Changes
 
 - tbd
 
+Something completely different:
+Can you please help me to set up a content styleguide for Ginetta?
