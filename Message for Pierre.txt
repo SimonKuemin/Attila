@@ -1,16 +1,17 @@
-# Message for Pierre
+Message for Pierre
 
 Current address of the blog: http://ux-writing.ghost.io/
 
 (will later be on simonkuemin.ch)
 
-## Changes
+Changes
 
 - Please make GT Eesti Bold the new font for Headlines
 - Please make GT Sectra Book the new font for copy
 - Please remove the menu on the top right
 - Is it possible to add an "About" somewhere?
 - Is it possible to add a header bar with two menu points ("Blog" and "About")
+- Is it possible to change the color of the social media buttons to black and white?
 
 ## Payment
 
